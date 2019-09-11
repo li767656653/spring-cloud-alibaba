@@ -4,7 +4,18 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4481f077-0d01-4a4f-822f-565a73866157" name="Default Changelist" comment="" />
+    <list default="true" id="4481f077-0d01-4a4f-822f-565a73866157" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-gateway/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-gateway/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/target/classes/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/target/spring-cloud-alibaba-nacos-consumer-feign-1.0.0-SNAPSHOT.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/target/spring-cloud-alibaba-nacos-consumer-feign-1.0.0-SNAPSHOT.jar.original" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +30,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -28,6 +42,7 @@
   </component>
   <component name="ProjectId" id="1Qdh7wDAuXVOnCIZlHdPxiOW5S5" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/src/main/resources" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
@@ -59,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NacosConsumerFeignApplication">
+  <component name="RunManager" selected="Application.NacosProviderApplication">
     <configuration name="GatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.spring.cloud.alibaba.gateway.GatewayApplication" />
       <module name="spring-cloud-alibaba-gateway" />
@@ -124,5 +139,16 @@
       <updated>1568106216952</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
