@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4481f077-0d01-4a4f-822f-565a73866157" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spring-cloud-alibaba-gateway/src/main/resources/bootstrap.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-gateway/src/main/resources/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-gateway/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-gateway/src/main/resources/bootstrap.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/src/main/resources/bootstrap.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/target/classes/application.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-alibaba-nacos-consumer-feign/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
@@ -74,7 +71,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NacosProviderApplication">
+  <component name="RunManager" selected="Application.GatewayApplication">
     <configuration name="GatewayApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.spring.cloud.alibaba.gateway.GatewayApplication" />
       <module name="spring-cloud-alibaba-gateway" />
@@ -121,9 +118,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GatewayApplication" />
         <item itemvalue="Application.NacosConsumerFeignApplication" />
         <item itemvalue="Application.NacosProviderApplication" />
-        <item itemvalue="Application.GatewayApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +135,14 @@
       <option name="presentableId" value="Default" />
       <updated>1568106216952</updated>
     </task>
+    <task id="LOCAL-00001" summary="update properties files">
+      <created>1568193180544</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568193180544</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -145,10 +150,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update properties files" />
+    <option name="LAST_COMMIT_MESSAGE" value="update properties files" />
   </component>
 </project>
